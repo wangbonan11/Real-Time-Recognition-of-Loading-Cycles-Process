@@ -4,7 +4,7 @@ An algorithm is developed to recognize and understand the shovel loading operati
 ## 2.Basic Structure of the Algorithm
 ### 2.1Data acquisition
 * Read the original data file
-* Select the primary property parameter
+* Select the primary parameters
 ### 2.2Data preprocessing
 * Time data in standard format is converted into time stamps
 * Abnormal time value preprocessing
